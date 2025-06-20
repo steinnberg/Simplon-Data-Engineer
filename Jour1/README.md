@@ -17,4 +17,5 @@ Bienvenue dans le premier jour du parcours **Data Analyst / Engineer** Simplon.
 ## 📚 Ressources incluses
 Consultez le dossier `resources/` pour les fiches métier et documents programme.
 
+## Allez plus loin
 ---
