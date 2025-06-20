@@ -1,0 +1,1 @@
+Contient les schémas et exemples SQL utilisés pour les jointures.
