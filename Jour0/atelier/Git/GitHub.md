@@ -42,9 +42,7 @@ git add .
 ```
 
 
-
-
-Explication : on ajoute tous les fichiers non suivis.
+**Explication** : on ajoute tous les fichiers non suivis.
 
 Dans ce fichier, écris une ligne simple :
 
@@ -162,8 +160,6 @@ Quand tu crées une pull request (PR) sur GitHub :
 5. Modifie le fichier directement dans l’UI GitHub.
 
 6. Valide le conflit résolu, merge la PR.
-
-```
 
 
 ## ✅ Conclusion
