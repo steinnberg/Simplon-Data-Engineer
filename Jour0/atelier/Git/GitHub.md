@@ -19,7 +19,7 @@ Savoir **résoudre un conflit de fusion** simplement est crucial. Beaucoup de d�
 
 Pour créer un conflit de merge :
 
-1. Crée un fichier Python dans **PyCharm**, sur la branche principale (`main` ou `master`).
+1. Crée un fichier Python dans **VScode**, sur la branche principale (`main` ou `master`).
 2. Crée une nouvelle branche et modifie le fichier sur cette branche.
 3. Modifie aussi le même fichier sur la branche principale.
 4. Tente de fusionner les branches.
