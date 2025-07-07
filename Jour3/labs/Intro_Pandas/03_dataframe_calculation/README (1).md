@@ -21,7 +21,7 @@ Pour une explication détaillée du flux de travail itératif en analyse de donn
 
 ## Pour commencer
 
-Lancez `main.ipynb`, `challenge-1.ipynb`, `challenge-2.ipynb` et `challenge-3.ipynb` dans le dossier `your-code` de ce lab.  
+Lancez  `challenge-1.ipynb`, `challenge-2.ipynb` et `challenge-3.ipynb` dans le dossier `your-code` de ce lab.  
 Réalisez les exercices en suivant les instructions pas à pas.
 
 ## Livrables
