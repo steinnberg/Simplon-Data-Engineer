@@ -7,7 +7,7 @@ Ces fonctions nous permettent de passer une entrée et une transformation à une
 
 ## Pour commencer
 
-Ouvrez le fichier `main.ipynb` dans le dossier `your-code`.  
+Ouvrez le fichier `main.ipynb` .  
 Suivez les instructions et ajoutez votre code et vos explications au besoin.  
 À la fin de ce lab, vous aurez appris à utiliser **map**, **reduce** et **filter**, ainsi qu’à appliquer des fonctions avec Pandas.
 
