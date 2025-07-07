@@ -1,31 +1,29 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
-# Lab | Introduction to Pandas
+# Lab | Introduction à Pandas
 
 ## Introduction
 
-In the Introduction to Pandas lesson, we learned about the two main data structures in Pandas (Series and DataFrames), how to work with them, how to obtain them from other data structures, and how to perform basic calculations with them.
+Dans le cours *Introduction à Pandas*, nous avons découvert les deux principales structures de données de Pandas (**Series** et **DataFrames**), comment les manipuler, comment les obtenir à partir d’autres structures de données, et comment effectuer des calculs de base avec elles.
 
-The goal of this lab is to help you practice the concepts you learned in the lesson and provide you with some hands-on experience working with Pandas.
+L’objectif de ce lab est de vous aider à pratiquer les concepts vus en cours et de vous offrir une expérience pratique avec Pandas.
 
-## Getting Started
+## Pour commencer
 
-Now you should already be familiar with the workflow of solving and submitting the labs. But in case not, review the guidelines in the `README.md` in the [repo root](../..) and [previous lab](../lab-pandas).
+Vous devriez déjà être familier avec le déroulement pour résoudre et soumettre les labs. Mais si ce n’est pas le cas, relisez les instructions dans le fichier `README.md` à la [racine du repo](../..) ainsi que dans le [lab précédent](../lab-pandas).
 
-In this lab you will be working on [main.ipynb](your-code/main.ipynb). To launch it, first navigate to the directory that contains `main.ipynb` in Terminal, then execute `jupyter notebook`. In the webpage that is automatically opened, click the `main.ipynb` link to launch it.
+Dans ce lab, vous travaillerez dans le fichier [main.ipynb](your-code/main.ipynb). Pour le lancer, naviguez d’abord dans le terminal jusqu’au répertoire contenant `main.ipynb`, puis exécutez `jupyter notebook`. Sur la page web qui s’ouvrira automatiquement, cliquez sur le lien `main.ipynb` pour l’ouvrir.
 
-When you are on `main.ipynb`, read the instructions for each cell and provide your answers. Make sure to test your answers in each cell and save. Jupyter Notebook should automatically save your work progress. But it's a good idea to periodically save your work manually just in case.
+Lorsque vous êtes dans `main.ipynb`, lisez bien les instructions pour chaque cellule et écrivez vos réponses. Pensez à tester vos réponses dans chaque cellule et à sauvegarder. Jupyter Notebook sauvegarde normalement votre progression automatiquement, mais il est préférable de sauvegarder régulièrement votre travail manuellement par précaution.
 
-## Deliverables
+## Livrables
 
-- `main.ipynb` with your responses to each of the exercises.
+- `main.ipynb` contenant vos réponses à chaque exercice.
 
-## Submission
+## Soumission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+Une fois terminé, ajoutez vos livrables dans git. Ensuite, effectuez un commit et poussez votre branche vers le dépôt distant.
 
-## Resources
+## Ressources
 
-- [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
-- [Intro to Pandas Data Structures](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)
-- [Descriptive Statistics for Pandas DataFrame](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_descriptive_stats/)
+- [Documentation Pandas](https://pandas.pydata.org/pandas-docs/stable/)
+- [Introduction aux structures de données Pandas](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)
+- [Statistiques descriptives pour un DataFrame Pandas](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_descriptive_stats/)
