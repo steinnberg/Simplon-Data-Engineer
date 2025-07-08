@@ -1,27 +1,26 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
-# Lab | Importing and Exporting Files
-
+# Lab | Importer et Exporter des Fichiers
 
 ## Introduction
 
-Without data, we couldn't really be data scientists. Therefore, this lab will discuss the task of importing and exporting data into pandas using different file formats.
+Sans données, nous ne pourrions pas vraiment être des data scientists.  
+Dans ce lab, nous allons donc aborder la tâche d’importer et d’exporter des données dans **pandas** en utilisant différents formats de fichiers.
 
-## Getting Started
+## Pour commencer
 
-Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to import and export JSON, csv, and Excel files.
-## Deliverables
+Ouvrez le fichier `main.ipynb` dans le dossier `your-code`.  
+Suivez les instructions et ajoutez votre code et vos explications si nécessaire.  
+À la fin de ce lab, vous saurez comment importer et exporter des fichiers **JSON**, **CSV** et **Excel**.
 
-- `main.ipynb` with your responses.
+## Livrables
 
-## Submission
+- `main.ipynb` avec vos réponses.
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+## Soumission
 
-## Resources
+Une fois terminé, ajoutez vos livrables à git. Ensuite, effectuez un commit et poussez votre branche vers le dépôt distant.
 
-[Pandas - the `read_csv` function](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html)
+## Ressources
 
-[Pandas - the `read_json` function](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_json.html)
-
-[Pandas - the `read_excel` function](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_excel.html)
+- [Pandas — la fonction `read_csv`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_csv.html)
+- [Pandas — la fonction `read_json`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_json.html)
+- [Pandas — la fonction `read_excel`](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.read_excel.html)

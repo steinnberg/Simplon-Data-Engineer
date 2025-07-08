@@ -1,38 +1,31 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
-# Lab | Dataframe Calculation and Transformation
+# Lab | Calcul et Transformation de DataFrame
 
 ## Introduction
 
-We have learned the basics of dataframe calculation, aggregation, and summarization in the lesson. In this lab you will practice the functions covered in the lessons and learn more advanced ones by solving a series of challenges.
+Nous avons appris les bases du calcul, de l’agrégation et de la synthèse avec les DataFrames pendant le cours.  
+Dans ce lab, vous allez pratiquer les fonctions abordées pendant la leçon et en découvrir d’autres plus avancées en résolvant une série de défis.
 
-In this lab we also want you to focus on refining your problem-solving process in addition to completing the challenges. Data analysis is an iterative problem-solving process. You will need to break down a complex problem into a subset of less complex problems, then tackle each sub problems in a progressive order. You may need to further break down the sub problems into sub-sub problems and so on so forth depending on the complexity of those problems. You will keep breaking down the problems until you are able to solve each of them.
+Dans ce lab, nous voulons également que vous mettiez l’accent sur l’amélioration de votre processus de **résolution de problèmes**, en plus de résoudre les défis.  
+L’analyse de données est un processus itératif de résolution de problèmes. Vous devrez décomposer un problème complexe en un ensemble de sous-problèmes plus simples, puis traiter chaque sous-problème dans un ordre progressif.  
+Il se peut que vous deviez encore décomposer ces sous-problèmes en sous-sous-problèmes, et ainsi de suite, en fonction de leur complexité.  
+Vous continuerez à décomposer jusqu’à pouvoir résoudre chaque partie.
 
-During the problem-solving process, you are required to constantly test your solutions and reflect on your goals and problem-solving strategies. You may be required to revise the problem-solving strategies and sometimes redefine the problem subsets based on your latest discoveries.
+Pendant le processus de résolution de problèmes, vous devez **tester constamment vos solutions**, réfléchir à vos objectifs et ajuster vos stratégies de résolution.  
+Il peut être nécessaire de réviser vos stratégies et parfois même de redéfinir les sous-ensembles de problèmes en fonction de vos dernières découvertes.
 
-Keep in mind the general guidelines above when you conduct data analysis in this lab and in the future. You need to learn this scientific research methodology if you want to become a successful data analyst. For a detailed explanation of the iterative data analysis workflow, watch [this YouTube video](https://www.youtube.com/watch?v=xOomNicqbkk).
+Gardez à l’esprit ces principes généraux lorsque vous menez une analyse de données, dans ce lab et à l’avenir.  
+Vous devez acquérir cette méthodologie de recherche scientifique si vous souhaitez devenir un data analyst compétent.  
+Pour une explication détaillée du flux de travail itératif en analyse de données, regardez [cette vidéo YouTube](https://www.youtube.com/watch?v=xOomNicqbkk).
 
-**You are required to watch the above video before proceeding.**
+**Vous devez regarder la vidéo ci-dessus avant de continuer.**
 
-## Getting Started
+## Pour commencer
 
-Launch `main.ipynb`, `challenge-1.ipynb`, `challenge-2.ipynb`, and `challenge-3.ipynb` in the `your-code` directory of this lab. Take the exercises following the step-by-step instructions.
+Lancez  `challenge-1.ipynb`, `challenge-2.ipynb` et `challenge-3.ipynb` dans le dossier `your-code` de ce lab.  
+Réalisez les exercices en suivant les instructions pas à pas.
 
-## Deliverables
+## Livrables
 
-* `main.ipynb` is a **mandatory challenge** that you must submit. 
-* `challenge-1.ipynb`, `challenge-2.ipynb` and `challenge-3.ipynb` are optional challenges that will help you acquire the basics of dataframe calculation and transformation. 
+* `main.ipynb` est un **défi obligatoire** que vous devez soumettre.
+* `challenge-1.ipynb`, `challenge-2.ipynb` et `challenge-3.ipynb` son*
 
-## Submission
-
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
-
-## Resources
-
-[Data Analysis Iteration](https://www.youtube.com/watch?v=xOomNicqbkk)
-
-[Pokemon with Stats](https://www.kaggle.com/abcsds/pokemon)
-
-[Google Search: get all numeric columns in dataframe](https://www.google.com/search?q=pandas+dataframe+get+all+numeric+columns)
-
-[One Hot Encoding](https://hackernoon.com/what-is-one-hot-encoding-why-and-when-do-you-have-to-use-it-e3c6186d008f)

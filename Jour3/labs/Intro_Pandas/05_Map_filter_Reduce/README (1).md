@@ -1,26 +1,25 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
 # Lab | Map, Reduce, Filter
-
 
 ## Introduction
 
-In this lab, we will implement what we have learned about functional programming using the map, reduce, and filter functions. These functions allow us to pass an input and a transformation to a function and produce an output. 
+Dans ce lab, nous allons mettre en pratique ce que nous avons appris sur la **programmation fonctionnelle** en utilisant les fonctions **map**, **reduce** et **filter**.  
+Ces fonctions nous permettent de passer une entrée et une transformation à une fonction pour produire une sortie.
 
-## Getting Started
+## Pour commencer
 
-Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned about mapping, reducing, and filtering as well as applying functions in Pandas.
+Ouvrez le fichier `main.ipynb` .  
+Suivez les instructions et ajoutez votre code et vos explications au besoin.  
+À la fin de ce lab, vous aurez appris à utiliser **map**, **reduce** et **filter**, ainsi qu’à appliquer des fonctions avec Pandas.
 
-## Deliverables
+## Livrables
 
-- `main.ipynb` with your responses.
+- `main.ipynb` avec vos réponses.
 
-## Submission
+## Soumission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+Une fois terminé, ajoutez vos livrables à git. Ensuite, effectuez un commit et poussez votre branche vers le dépôt distant.
 
-## Resources
+## Ressources
 
-[The Official Python Documentation on Mapping, Reducing, and Filtering](https://docs.python.org/3/howto/functional.html#built-in-functions)
-
-[The `apply` Function in Pandas](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.html)
+- [Documentation officielle Python sur Map, Reduce et Filter](https://docs.python.org/3/howto/functional.html#built-in-functions)
+- [La fonction `apply` dans Pandas](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.html)
