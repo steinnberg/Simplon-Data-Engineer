@@ -10,9 +10,9 @@ Vous travaillerez de manière autonome, mais rappelez-vous que l’équipe péda
 
 ## Pour commencer
 
-Vous devriez déjà être familier avec le déroulement pour résoudre et soumettre les labs. Mais si ce n’est pas le cas, relisez les consignes dans le `README.md` à la [racine du repo](../..) ainsi que dans le [lab précédent](../Intro_Pandas).
+Vous devriez déjà être familier avec le déroulement pour résoudre et soumettre les Labs. Mais si ce n’est pas le cas, relisez les consignes dans le `README.md` à la [racine du repo](../..) ainsi que dans le [lab précédent](../Intro_Pandas).
 
-Dans ce lab, vous travaillerez dans le fichier [main.ipynb](your-code/main.ipynb). Pour le lancer, naviguez d’abord dans le terminal jusqu’au répertoire contenant `main.ipynb`, puis exécutez `jupyter notebook`. Sur la page web qui s’ouvrira automatiquement, cliquez sur le lien `main.ipynb` pour l’ouvrir.
+Dans ce Lab, vous travaillerez dans le fichier [main.ipynb](your-code/main.ipynb). Pour le lancer, naviguez d’abord dans le terminal jusqu’au répertoire contenant `main.ipynb`, puis exécutez `jupyter notebook`. Sur la page web qui s’ouvrira automatiquement, cliquez sur le lien `main.ipynb` pour l’ouvrir.
 
 Lorsque vous êtes dans `main.ipynb`, lisez bien les instructions pour chaque cellule et écrivez vos réponses.  
 Testez vos réponses dans chaque cellule et sauvegardez régulièrement votre travail. Jupyter Notebook enregistre normalement votre progression automatiquement, mais sauvegardez aussi manuellement par précaution.
