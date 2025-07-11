@@ -1,1 +1,0 @@
-Ajoute ici des exemples de scripts Bash automatisés ou des extraits de logs anonymisés.
