@@ -47,7 +47,7 @@ Simplon-Data-Engineer/
 
 ## 🧑‍🏫 Encadrement
 
-Formation animée par l’équipe Simplon en lien avec des professionnel·le·s du secteur, incluant des interventions inspirantes autour du handicap et de l’inclusion dans les métiers de la data.
+Formation animée par l’équipe Simplon en lien avec des professionnel·le·s du secteur, incluant des interventions inspirantes et de l’inclusion dans les métiers de la data.
 
 ---
 
